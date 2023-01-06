@@ -1,0 +1,20 @@
+.container{display:inline; 
+ }
+ .body{background-color: black;}
+ .container{display: flex;
+justify-content:space-evenly;
+ 
+}
+.h2 {display:inline;}
+.cards{display: inline;
+    }
+
+/* .mothersj{display: flex;
+justify-content: space-around;} */
+
+.card{display: flex;
+    justify-content: space-around;
+}
+
+
+
